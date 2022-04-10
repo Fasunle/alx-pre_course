@@ -4,3 +4,5 @@ git clone <url>
 git branch -l
 git branch <new branch_name>
 git checkout <branch_name>
+git pull
+git push
